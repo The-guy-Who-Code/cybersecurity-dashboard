@@ -1,3 +1,0 @@
-1.Pandas
-2.Streamlit
-3.plotply
